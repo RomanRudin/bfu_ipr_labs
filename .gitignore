@@ -1,1 +1,5 @@
-Labs/mnist
+pytorch_env
+.ipynb_checkpoints
+__pycache__
+mnist
+cifar
