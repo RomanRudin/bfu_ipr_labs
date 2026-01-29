@@ -4,3 +4,4 @@ __pycache__
 mnist
 cifar
 synthetic_cubesat
+.pth
