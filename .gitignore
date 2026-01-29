@@ -3,3 +3,4 @@ pytorch_env
 __pycache__
 mnist
 cifar
+synthetic_cubesat
